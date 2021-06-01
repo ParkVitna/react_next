@@ -1,10 +1,8 @@
-import styles from '../styles/Home.module.css'
-
-function Home() {
+function Exam02FunTypeComponent(props) {
   return (
     <div className="card">
       <div className="card-header">
-          Home
+        Exam02FunTypeComponent
       </div>
       <div className="card-body">
           content...
@@ -13,4 +11,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default Exam02FunTypeComponent; 
